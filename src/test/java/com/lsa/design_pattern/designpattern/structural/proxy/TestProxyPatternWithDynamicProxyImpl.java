@@ -1,6 +1,5 @@
-package com.lsa.design_pattern.designpattern.proxy;
+package com.lsa.design_pattern.designpattern.structural.proxy;
 
-import org.assertj.core.util.Lists;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Proxy;

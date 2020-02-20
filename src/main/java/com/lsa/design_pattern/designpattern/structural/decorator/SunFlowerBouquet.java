@@ -1,4 +1,4 @@
-package com.lsa.design_pattern.designpattern.decorator;
+package com.lsa.design_pattern.designpattern.structural.decorator;
 
 public class SunFlowerBouquet extends FlowerBouquet {
     public SunFlowerBouquet() {

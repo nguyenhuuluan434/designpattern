@@ -1,6 +1,6 @@
-package com.lsa.design_pattern.designpattern.decorator;
+package com.lsa.design_pattern.designpattern.structural.decorator;
 
-import com.lsa.design_pattern.designpattern.decorator.withLombok.RemovalDelegate;
+import com.lsa.design_pattern.designpattern.structural.decorator.withLombok.RemovalDelegate;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

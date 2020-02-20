@@ -1,4 +1,4 @@
-package com.lsa.design_pattern.designpattern.decorator.withLombok;
+package com.lsa.design_pattern.designpattern.structural.decorator.withLombok;
 
 import lombok.experimental.Delegate;
 

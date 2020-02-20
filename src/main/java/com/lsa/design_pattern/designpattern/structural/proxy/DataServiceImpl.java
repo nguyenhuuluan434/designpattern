@@ -1,4 +1,4 @@
-package com.lsa.design_pattern.designpattern.proxy;
+package com.lsa.design_pattern.designpattern.structural.proxy;
 
 public class DataServiceImpl implements DataService {
     @Override
