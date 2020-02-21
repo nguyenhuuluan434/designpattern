@@ -1,6 +1,6 @@
-package com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage;
+package com.lsa.design_pattern.designpattern.creational.abstractFactory.usage;
 
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.factory.BaseToppingFactory;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.factory.BaseToppingFactory;
 
 public class CheesePizza extends Pizza {
     BaseToppingFactory toppingFactory;

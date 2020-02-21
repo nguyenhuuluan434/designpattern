@@ -1,9 +1,9 @@
 package com.lsa.design_pattern.designpattern.creational;
 
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.factory.BasePizzaFactory;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.factory.GourmetPizzaFactory;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.factory.SicilianPizzaFactory;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage.Pizza;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.factory.BasePizzaFactory;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.factory.GourmetPizzaFactory;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.factory.SicilianPizzaFactory;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.usage.Pizza;
 import org.junit.jupiter.api.Test;
 
 public class AbstractFactoryTest {

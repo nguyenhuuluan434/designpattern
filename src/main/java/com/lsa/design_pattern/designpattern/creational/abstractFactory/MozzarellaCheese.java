@@ -1,4 +1,4 @@
-package com.lsa.design_pattern.designpattern.behavior.abstractFactory;
+package com.lsa.design_pattern.designpattern.creational.abstractFactory;
 
 public class MozzarellaCheese extends Cheese {
     public MozzarellaCheese() {

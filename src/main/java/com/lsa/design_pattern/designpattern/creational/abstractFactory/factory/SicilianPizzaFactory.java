@@ -1,9 +1,9 @@
-package com.lsa.design_pattern.designpattern.behavior.abstractFactory.factory;
+package com.lsa.design_pattern.designpattern.creational.abstractFactory.factory;
 
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage.CheesePizza;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage.PepperoniPizza;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage.Pizza;
-import com.lsa.design_pattern.designpattern.behavior.abstractFactory.usage.VeggiePizza;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.usage.CheesePizza;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.usage.PepperoniPizza;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.usage.Pizza;
+import com.lsa.design_pattern.designpattern.creational.abstractFactory.usage.VeggiePizza;
 
 public class SicilianPizzaFactory extends BasePizzaFactory {
     @Override
